@@ -1,0 +1,1 @@
+# DIO_IA_Generativa_OpenAI
